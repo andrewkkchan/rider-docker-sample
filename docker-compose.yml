@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+  acmecorp.web:
+    image: ${DOCKER_REGISTRY-}acmecorpweb
+    build:
+      context: .
+      dockerfile: AcmeCorp.Web/Dockerfile
+    ports:
+      - "53961:80"
+#  acmecorp.web.api:
+#    image: ${DOCKER_REGISTRY-}acmecorpwebapi
+#    build:
+#      context: .
+#      dockerfile: AcmeCorp.Web.Api/Dockerfile
+#    ports:
+#      - "54011:80"

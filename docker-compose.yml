@@ -4,8 +4,8 @@ services:
   acmecorp.web:
     image: ${DOCKER_REGISTRY-}acmecorpweb
     build:
-      context: .
-      dockerfile: AcmeCorp.Web/Dockerfile
+      context: ./AcmeCorp.Web
+      dockerfile: Dockerfile
     ports:
       - "53961:80"
 #  acmecorp.web.api:

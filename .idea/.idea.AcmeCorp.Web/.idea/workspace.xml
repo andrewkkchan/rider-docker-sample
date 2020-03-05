@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3390e3ec-cce2-4783-9a40-647e63520f5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AcmeCorp.Web/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AcmeCorp.Web/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AcmeCorp.Web/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AcmeCorp.Web/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AcmeCorp.Web/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AcmeCorp.Web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AcmeCorp.Web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcmeCorp.Web/obj/Debug/netcoreapp2.2/AcmeCorp.Web.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AcmeCorp.Web/obj/Debug/netcoreapp2.2/AcmeCorp.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +159,13 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
-                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Compose: docker-compose.yml" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Compose: docker-compose.yml" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="acmecorp.web" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -183,7 +185,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583404811842</updated>
       <workItem from="1583404813191" duration="5775000" />
-      <workItem from="1583410697436" duration="84000" />
+      <workItem from="1583410697436" duration="175000" />
+      <workItem from="1583411154727" duration="732000" />
     </task>
     <servers />
   </component>

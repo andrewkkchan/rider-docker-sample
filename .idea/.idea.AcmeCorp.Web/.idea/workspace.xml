@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3390e3ec-cce2-4783-9a40-647e63520f5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35D1D668-9205-4C08-8AC0-8401C2EDB00B/4/Controller.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AcmeCorp.Web/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AcmeCorp.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AcmeCorp.Web/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6190FF42-D976-4D48-A608-F14E63B91805/85/Guid.Unix.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AcmeCorp.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AcmeCorp.Web/Dockerfile" />
+        <option value="$PROJECT_DIR$/AcmeCorp.Web/user.cs" />
+        <option value="$PROJECT_DIR$/AcmeCorp.Web/UserController.cs" />
+        <option value="$PROJECT_DIR$/AcmeCorp.Web/Models/User.cs" />
+        <option value="$PROJECT_DIR$/AcmeCorp.Web/Startup.cs" />
+        <option value="$PROJECT_DIR$/AcmeCorp.Web/Controllers/UserController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yhpj2MJjCCBqg95tyLBjCHZKmK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Docker.AcmeCorp.Web/Dockerfile">
+    <configuration name="AcmeCorp.Web" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AcmeCorp.Web/AcmeCorp.Web.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="AcmeCorp.Web" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcmeCorp.Web: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AcmeCorp.Web/AcmeCorp.Web.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcmeCorp.Web/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="acmecorp-web" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="80" />
+                <option name="hostPort" value="8000" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="AcmeCorp.Web/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.AcmeCorp.Web" />
+      <item itemvalue=".NET Launch Settings Profile.AcmeCorp.Web: IIS Express" />
+      <item itemvalue="Docker.AcmeCorp.Web/Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.AcmeCorp.Web/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3390e3ec-cce2-4783-9a40-647e63520f5b" name="Default Changelist" comment="" />
+      <created>1583404811842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583404811842</updated>
+      <workItem from="1583404813191" duration="4333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="-1816" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583406501337">
+      <screen x="-2560" y="-122" width="2560" height="1417" />
+    </state>
+    <state x="-1816" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583406501337" />
+    <state width="2518" height="399" key="GridCell.Tab.0.bottom" timestamp="1583409019385">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.0.bottom/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583409019385" />
+    <state width="2518" height="399" key="GridCell.Tab.0.bottom/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143995" />
+    <state width="2518" height="399" key="GridCell.Tab.0.center" timestamp="1583409019384">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.0.center/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583409019384" />
+    <state width="2518" height="399" key="GridCell.Tab.0.center/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143994" />
+    <state width="2518" height="399" key="GridCell.Tab.0.left" timestamp="1583409019384">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.0.left/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583409019384" />
+    <state width="2518" height="399" key="GridCell.Tab.0.left/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143994" />
+    <state width="2518" height="399" key="GridCell.Tab.0.right" timestamp="1583409019384">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.0.right/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583409019384" />
+    <state width="2518" height="399" key="GridCell.Tab.0.right/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143995" />
+    <state width="2518" height="399" key="GridCell.Tab.1.bottom" timestamp="1583409020079">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.1.bottom/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583409020079" />
+    <state width="2518" height="399" key="GridCell.Tab.1.bottom/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143996" />
+    <state width="2518" height="399" key="GridCell.Tab.1.center" timestamp="1583409020078">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.1.center/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583409020078" />
+    <state width="2518" height="399" key="GridCell.Tab.1.center/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143995" />
+    <state width="2518" height="399" key="GridCell.Tab.1.left" timestamp="1583409020078">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.1.left/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583409020078" />
+    <state width="2518" height="399" key="GridCell.Tab.1.left/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143995" />
+    <state width="2518" height="399" key="GridCell.Tab.1.right" timestamp="1583409020078">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.1.right/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583409020078" />
+    <state width="2518" height="399" key="GridCell.Tab.1.right/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143996" />
+    <state width="2518" height="399" key="GridCell.Tab.2.bottom" timestamp="1583408866416">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.2.bottom/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866416" />
+    <state width="2518" height="399" key="GridCell.Tab.2.bottom/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143997" />
+    <state width="2518" height="399" key="GridCell.Tab.2.center" timestamp="1583408866416">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.2.center/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866416" />
+    <state width="2518" height="399" key="GridCell.Tab.2.center/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143997" />
+    <state width="2518" height="399" key="GridCell.Tab.2.left" timestamp="1583408866416">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.2.left/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866416" />
+    <state width="2518" height="399" key="GridCell.Tab.2.left/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143997" />
+    <state width="2518" height="399" key="GridCell.Tab.2.right" timestamp="1583408866416">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.2.right/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866416" />
+    <state width="2518" height="399" key="GridCell.Tab.2.right/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143997" />
+    <state width="2518" height="399" key="GridCell.Tab.3.bottom" timestamp="1583408866417">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.3.bottom/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866417" />
+    <state width="2518" height="399" key="GridCell.Tab.3.bottom/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143998" />
+    <state width="2518" height="399" key="GridCell.Tab.3.center" timestamp="1583408866417">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.3.center/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866417" />
+    <state width="2518" height="399" key="GridCell.Tab.3.center/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143998" />
+    <state width="2518" height="399" key="GridCell.Tab.3.left" timestamp="1583408866417">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.3.left/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866417" />
+    <state width="2518" height="399" key="GridCell.Tab.3.left/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143998" />
+    <state width="2518" height="399" key="GridCell.Tab.3.right" timestamp="1583408866417">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.3.right/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866417" />
+    <state width="2518" height="399" key="GridCell.Tab.3.right/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143998" />
+    <state width="2518" height="399" key="GridCell.Tab.4.bottom" timestamp="1583408866418">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.4.bottom/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866418" />
+    <state width="2518" height="399" key="GridCell.Tab.4.bottom/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407144000" />
+    <state width="2518" height="399" key="GridCell.Tab.4.center" timestamp="1583408866417">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.4.center/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866417" />
+    <state width="2518" height="399" key="GridCell.Tab.4.center/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143999" />
+    <state width="2518" height="399" key="GridCell.Tab.4.left" timestamp="1583408866417">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.4.left/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866417" />
+    <state width="2518" height="399" key="GridCell.Tab.4.left/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143998" />
+    <state width="2518" height="399" key="GridCell.Tab.4.right" timestamp="1583408866418">
+      <screen x="-2560" y="-122" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="399" key="GridCell.Tab.4.right/-2560.-122.2560.1337/0.23.1680.1027@-2560.-122.2560.1337" timestamp="1583408866418" />
+    <state width="2518" height="399" key="GridCell.Tab.4.right/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583407143999" />
+    <state x="-1519" y="250" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize" timestamp="1583406481545">
+      <screen x="-2560" y="-122" width="2560" height="1417" />
+    </state>
+    <state x="-1519" y="250" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize/-2560.-122.2560.1417/0.23.1680.947@-2560.-122.2560.1417" timestamp="1583406481545" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AcmeCorp.Web/Startup.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/AcmeCorp.Web/Startup.cs" initialLine="22">
+            <startOffsets>
+              <option value="984" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1008" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AcmeCorp.Web/Controllers/UserController.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/AcmeCorp.Web/Controllers/UserController.cs" initialLine="14">
+            <startOffsets>
+              <option value="390" />
+            </startOffsets>
+            <endOffsets>
+              <option value="602" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
